@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ntcode12
-- 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning Quantitative Analysis in R, Machine Learning in Python, Database Management in SQL
+- 👀 I’m interested in AI, Machine Learning, and Financial Risk Management/Forecasting
+- 📘 I graduated from the University of Southern California with B.A. in International Relations Global Business (Concentration: International Finance)
+- 🌱 I’m currently learning Machine Learning in Python, introductory HTML and CSS
 - 💞 I’m looking for a full-time position
 - 📫 How to reach me ntidow988@gmail.com or https://www.linkedin.com/in/nichollas-tidow/
 
